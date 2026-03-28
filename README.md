@@ -23,6 +23,16 @@ npm run dev
 npm run build
 ```
 
+## 部署说明
+
+- GitHub 仓库：`csijia020-wq/club-recruitment-platform`
+- 国际备用镜像：Vercel
+- 国内评审镜像方案：腾讯云 CloudBase 静态网站托管 + 已备案自定义域名
+
+详细说明见：
+
+- [DEPLOY_REVIEW_CN.md](/Users/chuanshanjia/Desktop/社团招新智能匹配平台/DEPLOY_REVIEW_CN.md)
+
 ## 数据说明
 
 - 演示数据位于 `src/data/mockData.ts`
